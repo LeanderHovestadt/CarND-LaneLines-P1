@@ -45,16 +45,3 @@ Step 3: Complete the project and submit both the Ipython notebook and the projec
 
 How to write a README
 A well written README file can enhance your project and portfolio. Develop your abilities to create professional README files by completing this free course.
-
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
